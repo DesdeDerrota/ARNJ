@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica;
+    background-color: grey;
+}
+h1 {
+    color: blue;
+    border-bottom: solid 4px;
+}
+a {
+    text-decoration: None;
+    color: red;
+}
+
+h5 {
+    text-align: center;
+}
